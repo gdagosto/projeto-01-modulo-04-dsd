@@ -5,7 +5,9 @@ Projeto desenvolvido para o Módulo de Machine Learning do Data Science Degree, 
 
 ### Conteudo
 
-**Projeto1 - Covid - Gabriel dAgosto.ipynb**: Notebook principal onde foram feitos os estudos
+**781_Projeto1_GabrielDAgosto.ipynb**: Notebook principal onde foram feitos os estudos
+
+**finalModelPredictions.pkl**: Arquivo pickle contendo as previsões do modelo final em cima do arquivo **COVID_subm.csv**, que se encontra dentro da pasta datasets
 
 **datasets/**: Pasta contendo o dataset original (covid.csv) e alguns arquivos pickle de estudos do optuna e do dataset tratado
 
